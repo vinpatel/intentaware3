@@ -1,0 +1,54 @@
+BaseUrl= "http://example.com/"
+LanguageCode= "fr-FR"
+Title= "Maximizing Value of Data"
+paginate = 5
+#DisqusShortname = "intentaware"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
+
+[params]
+  description = "Explore Intentaware"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/hero1.jpg"
+  author = "IntentAware"
+  #authorlocation = "Paris, France"
+  #authorwebsite = "http://vjeantet.fr"
+  #bio= "my bio"
+  logo = "images/2.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "intentaware"
+  twitterName = "intentaware"
+  facebookName = "https://www.facebook.com/IntentAware-1706789376208004/"
+  #linkedinName = "https://www.linkedin.com/company-beta/10148034"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "your_twitter"
+
+
+
+[[menu.main]]
+  name = "About Us"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
+  [[menu.main]]
+  name = "Case Studies"
+  weight = -110
+  identifier = "Case Studies"
+  url = "/casestudies"
+
+  [[menu.main]]
+  name = "Contact"
+  weight = -130
+  identifier = "contact"
+  url = "/contact"
