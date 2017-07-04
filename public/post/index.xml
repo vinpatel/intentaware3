@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Maximizing Value of Data</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on Maximizing Value of Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>All rights reserved - 2015</copyright>
+    
+	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Actionable Data</title>
+      <link>http://example.com/post/actionabledata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/actionabledata/</guid>
+      <description>We capture user data from any device, across multiple locations, and from multiple devices. Our proprietary technology performs real time analysis of content, user context, and user data, including 1st and 3rd party data. We analyze the behavior of over 500 million Internet users, detect their locations and devices, and deduces their interest and intent, among others data points - a 360-degree view of your online users. We do not rely on 3rd party cookies and our solution is mobile optimized.</description>
+    </item>
+    
+    <item>
+      <title>Ip Intelligence</title>
+      <link>http://example.com/post/ipintelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/ipintelligence/</guid>
+      <description>Our proprietary technology provides you insight on your online customers – know from where and how they are connecting to web. This information can further be used to curb online fraud and mitigate compliance risks related to online sales. Best of all, you can get this information within seconds (~18 seconds) to either boost your customer engagement or prevent fraud.</description>
+    </item>
+    
+    <item>
+      <title>Lead Intelligence</title>
+      <link>http://example.com/post/leadintelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/leadintelligence/</guid>
+      <description>Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests &amp;amp; lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!</description>
+    </item>
+    
+  </channel>
+</rss>

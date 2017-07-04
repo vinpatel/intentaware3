@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/actionabledata/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/casestudies/direct-mail-in-digital-age/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/casestudies/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/casestudies/autoindustry/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/casestudies/banking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/ipintelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/leadintelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/casestudies/retail/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
